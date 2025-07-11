@@ -3,7 +3,7 @@ import PageHeader from '../components/PageHeader'
 import { useState } from 'react';
 import Data from '../products.json'
 import ProductsCards from './ProductsCards';
-import Pagination from './pagination';
+import Pagination from './pagination.jsx';
 import Search from './Search';
 import ShopCategory from './ShopCategory';
 
